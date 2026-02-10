@@ -1,4 +1,4 @@
-# tfbcalc
+# tfbcalc/ncalc
 A Python Calculator like any other.
 
 This is my biggest Python project, so far.
