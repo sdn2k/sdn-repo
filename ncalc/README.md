@@ -8,3 +8,4 @@ use the issues page to report any bugs!!
 
 #### ⚠️ NOTE: This is still in beta, it WILL contain bugs!
 #### ⚠️ NOTE 2: This project uses ANSI Escape codes! Make sure your terminal supports them! ESPECIALLY 24-bit RGB ANSI Colors!! 
+### ⚠️ NOTE 3: Install the colorama dependency incase you're on the legacy Windows terminal (e.g: CMD, Powershell)
